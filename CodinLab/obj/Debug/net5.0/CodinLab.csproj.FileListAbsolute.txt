@@ -1,0 +1,16 @@
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.exe
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.deps.json
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.runtimeconfig.json
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.dll
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\ref\CodinLab.dll
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\bin\Debug\net5.0\CodinLab.pdb
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.csproj.AssemblyReference.cache
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.dll
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\ref\CodinLab.dll
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.pdb
+C:\Users\DELL\RiderProjects\CodinLab\CodinLab\obj\Debug\net5.0\CodinLab.genruntimeconfig.cache
